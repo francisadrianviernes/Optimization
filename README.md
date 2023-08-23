@@ -61,5 +61,3 @@ For queries, suggestions, or feedback, feel free to reach out at [my personal em
 ---
 
 ⭐ If you find this repository helpful, please consider giving it a star. Happy optimizing!
-Make sure to adjust [youremail@example.com](mailto:youremail@example.com) and [open an issue](https://github.com/yourusername/Optimization/issues) with your actual email and GitHub repository details before using the markdown.
-
