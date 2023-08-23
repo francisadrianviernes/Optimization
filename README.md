@@ -8,7 +8,7 @@ Optimization is simply about finding the best course of action for a given probl
 
 The repository is structured into different sections, covering various facets of optimization:
 
-- [**Linear Programming**](https://github.com/francisadrianviernes/Optimization/blob/main/Optimization/Linear%20Programming)
+- [**Linear Programming**](https://github.com/francisadrianviernes/Optimization/tree/main/Linear%20Programming)
 - [**Non-Linear Programming**](./Optimization/Non-Linear%20Programming)
 - [**Integer Programming**](./Optimization/Integer%20Programming)
 - [**Dynamic Programming**](./Optimization/Dynamic%20Programming)
